@@ -1,0 +1,6 @@
+// global styles etc.
+// for component's styles use CSS MODULES
+
+@use 'sass:meta';
+@use 'reset' as *;
+@use 'config' as *;
